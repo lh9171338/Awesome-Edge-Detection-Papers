@@ -8,7 +8,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ![examples](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers/blob/master/edge-detection.png)
 
 
-**Outline**
+# Outline
 
 - [Deep-learning based approaches](#1-deep-learning-based-approaches)
   - [General edge detection](#11-general-edge-detection)
