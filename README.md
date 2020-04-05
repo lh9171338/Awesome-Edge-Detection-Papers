@@ -1,6 +1,5 @@
-# Awesome-Edge-Detection-Papers
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Edge Detection Papers
+===
 
 A collection of edge detection papers (*a.k.a.* contour detection or boundary detection).
 
@@ -21,9 +20,9 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 - [[Misc] Useful Links](#3-useful-links)
 
 
-## 1. Deep-learning based approaches
+# 1. Deep-learning based approaches
 
-### 1.1 General edge detection
+## 1.1 General edge detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -41,7 +40,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 |  |
 | DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 | [[code]](https://github.com/shenwei1231/DeepContour) |
 
-### 1.2 Object contour detection
+## 1.2 Object contour detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -49,7 +48,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 |  | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-### 1.3 Semantic edge detection (Category-Aware)
+## 1.3 Semantic edge detection (Category-Aware)
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -60,14 +59,14 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | `dataset` | [Semantic Contours from Inverse Detectors](https://www.robots.ox.ac.uk/~vgg/rg/papers/BharathICCV2011.pdf) | ICCV 2011 | [[code]](https://github.com/bharath272/semantic_contours) |
 
 
-### 1.4 Occlusion boundary detection
+## 1.4 Occlusion boundary detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-### 1.5 Edge detection from multi-frames
+## 1.5 Edge detection from multi-frames
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -79,7 +78,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-## 2. Traditional approaches
+# 2. Traditional approaches
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -99,6 +98,6 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-## 3. Useful Links
+# 3. Useful Links
 
  - Code to plot edge PR curves: [yun-liu/plot-edge-pr-curves](https://github.com/yun-liu/plot-edge-pr-curves)
