@@ -17,7 +17,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
   - [Occlusion boundary detection](#14-occlusion-boundary-detection)
   - [Edge detection from multi-frames](#15-edge-detection-from-multi-frames)
 - [Traditional approaches](#2-traditional-approaches)
-- [[Misc] Useful Links](#3-useful-links)
+- [Useful Links](#3-useful-links)
 
 
 # 1. Deep-learning based approaches
