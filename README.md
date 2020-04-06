@@ -10,19 +10,20 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 
 # Outline
 
-- [Deep-learning based approaches](#1-deep-learning-based-approaches)
-  - [General edge detection](#11-general-edge-detection)
-  - [Object contour detection](#12-object-contour-detection)
-  - [Semantic edge detection (Category-Aware)](#13-semantic-edge-detection-category-aware)
-  - [Occlusion boundary detection](#14-occlusion-boundary-detection)
-  - [Edge detection from multi-frames](#15-edge-detection-from-multi-frames)
-- [Traditional approaches](#2-traditional-approaches)
-- [Useful Links](#3-useful-links)
+- [Deep-Learning Based Approaches](#1-deep-learning-based-approaches)
+  - [General Edge Detection](#11-general-edge-detection)
+  - [Object Contour Detection](#12-object-contour-detection)
+  - [Semantic Edge Detection (Category-Aware)](#13-semantic-edge-detection-category-aware)
+  - [Occlusion Boundary Detection](#14-occlusion-boundary-detection)
+  - [Edge Detection From Multi-Frames](#15-edge-detection-from-multi-frames)
+- [Traditional Approaches](#2-traditional-approaches)
+- [Datasets](#3-datasets)
+- [Useful Links](#4-useful-links)
 
 
-# 1. Deep-learning based approaches
+# 1. Deep-Learning Based Approaches
 
-## 1.1 General edge detection
+## 1.1 General Edge Detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -40,7 +41,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 |  |
 | DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 | [[code]](https://github.com/shenwei1231/DeepContour) |
 
-## 1.2 Object contour detection
+## 1.2 Object Contour Detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -48,7 +49,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 |  | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-## 1.3 Semantic edge detection (Category-Aware)
+## 1.3 Semantic Edge Detection (Category-Aware)
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -59,14 +60,14 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | `dataset` | [Semantic Contours from Inverse Detectors](https://www.robots.ox.ac.uk/~vgg/rg/papers/BharathICCV2011.pdf) | ICCV 2011 | [[code]](https://github.com/bharath272/semantic_contours) |
 
 
-## 1.4 Occlusion boundary detection
+## 1.4 Occlusion Boundary Detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-## 1.5 Edge detection from multi-frames
+## 1.5 Edge Detection From Multi-Frames
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -78,7 +79,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-# 2. Traditional approaches
+# 2. Traditional Approaches
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -98,6 +99,14 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-# 3. Useful Links
+# 3. Datasets
+
+- [BIPED dataset(Barcelona Images for Perceptual Edge Detection)]()
+- [MBDD(Multi-cue boundary detection dataset)]()
+- [NYUD dataset(NYU Depth Dataset V2)]()
+- [BSDS 500(Berkeley Segmentation Dataset and Benchmark)]()
+
+
+# 4. Useful Links
 
  - Code to plot edge PR curves: [yun-liu/plot-edge-pr-curves](https://github.com/yun-liu/plot-edge-pr-curves)
