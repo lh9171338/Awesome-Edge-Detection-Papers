@@ -104,7 +104,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 - [BIPED dataset (Barcelona Images for Perceptual Edge Detection)](https://xavysp.github.io/MBIPED/)
 - [MBDD (Multi-cue boundary detection dataset)](https://serre-lab.clps.brown.edu/resource/multicue/)
 - [NYUD dataset (NYU Depth Dataset V2)](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
-- [BSDS 500 (Berkeley Segmentation Dataset and Benchmark)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+- [BSDS 500 (Berkeley Segmentation Dataset and Benchmark)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
 
 ---
